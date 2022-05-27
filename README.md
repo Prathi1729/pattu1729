@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prathiban
-- 👀 I’m interested in Life
+- 👀 I’m interested in Block chain
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me prathiban1729@gmail.com
